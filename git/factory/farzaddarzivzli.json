@@ -1,0 +1,15 @@
+{
+	"name": "farzaddarzivzli",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19dc8ac6-0c59-4dcf-af5a-44da1699d03a",
+		"tenantId": "1cdd4c70-1c1a-4d49-88a5-27331aaac943"
+	}
+}
